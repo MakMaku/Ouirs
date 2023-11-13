@@ -1,0 +1,6 @@
+﻿  Search_img.cpp
+C:\Users\snake\Documents\uirs\Search_img\Search_img.cpp(50,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\snake\Documents\uirs\Search_img\Search_img.cpp(51,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\snake\Documents\uirs\Search_img\Search_img.cpp(52,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\snake\Documents\uirs\Search_img\Search_img.cpp(53,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Search_img.vcxproj -> C:\Users\snake\Documents\uirs\Search_img\x64\Debug\Search_img.exe
